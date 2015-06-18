@@ -1,0 +1,49 @@
+@PART[SXTBalloon]
+{
+	@category = Propulsion
+	TechRequired = heavierRocketry
+	entryCost = 0
+}
+@PART[SXTBalloonGold]
+{
+	@category = Propulsion
+	TechRequired = heavierRocketry
+	entryCost = 0	
+}
+@PART[SXTBalloonGoldB]
+{
+	@category = Propulsion
+	TechRequired = heavierRocketry
+	entryCost = 0	
+
+}
+@PART[SXTMTVGirder]
+{
+	@category = Structural
+	TechRequired = specializedConstruction
+	entryCost = 0	
+}
+@PART[SXTMTVGirderBasic]
+{
+	@category = Structural
+	TechRequired = specializedConstruction
+	entryCost = 0	
+}
+@PART[SXTMTVGirderOpen]
+{
+	@category = Structural
+	TechRequired = specializedConstruction
+	entryCost = 0	
+}
+@PART[SXTMTVGirderOpenSmall]
+{
+	@category = Structural
+	TechRequired = specializedConstruction
+	entryCost = 0	
+}
+@PART[SXTBalloon375]
+{
+	@category = Propulsion
+	TechRequired = heavierRocketry
+	entryCost = 0	
+}
